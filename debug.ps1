@@ -1,0 +1,1 @@
+node --debug-brk $env:APPDATA\npm\node_modules\grunt-cli\bin\grunt --force

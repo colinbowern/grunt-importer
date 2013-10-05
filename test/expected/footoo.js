@@ -1,0 +1,6 @@
+(function() {
+    //fizz
+})();
+(function() {
+    //buzz
+})();
