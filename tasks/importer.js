@@ -41,8 +41,6 @@ module.exports = function (grunt) {
             }
 
             grunt.util.async.concatSeries(files, function (file, next) {
-                grunt.log.writeln(file);
-                grunt.log.writeln(destination);
                 var destinationFile = destination || file;
 
                 var pkg = importer.createPackage(file);

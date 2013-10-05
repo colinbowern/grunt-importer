@@ -1,7 +1,7 @@
 {
   "name": "grunt-importer",
   "description": "Importer adds an #import statement to JavaScript based languages including CoffeeScript that works like #include in C-based languages. It compiles files into JavaScript, concatenates them together in the places you've defined, and generates source maps.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/colinbowern/grunt-importer",
   "author": {
     "name": "Colin Bowern",

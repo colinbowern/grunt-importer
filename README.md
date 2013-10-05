@@ -79,3 +79,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 * 2013-10-04   v1.0.0   Initial release
+* 2013-10-04   v1.0.1   Removed debug output
